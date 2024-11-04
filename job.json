@@ -1,0 +1,6 @@
+[
+    {
+        "in": "midi/test.midi",
+        "out": "pdf/out.pdf"
+    }
+]
